@@ -1,0 +1,30 @@
+.navbar{
+    border: none;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.pg{
+    color: gray;
+}
+.price{
+    color: red;
+}
+.buy-now-button{
+    color: black;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+}
+.flex{
+    padding: 60px 120px;
+}
+.seeall{
+    color: goldenrod;
+}
+.cat{
+    
+    padding: 30px 100px;
+}

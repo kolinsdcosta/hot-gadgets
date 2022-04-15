@@ -1,30 +1,48 @@
-.navbar{
+.navbar {
     border: none;
 }
-.carousel-item{
+
+.carousel-item {
     padding: 20px 40px;
 }
-.pg{
+
+.pg {
     color: gray;
 }
-.price{
-    color: red;
-}
-.buy-now-button{
+
+.buy-now-button {
     color: black;
 }
-.card{
+
+.card {
     border: none;
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 5px;
 }
-.flex{
+
+.flex {
     padding: 60px 120px;
 }
-.seeall{
+
+.seeall {
     color: goldenrod;
 }
-.cat{
-    
+
+.cat {
+
     padding: 30px 100px;
+}
+
+.container {
+    padding: 5px 10px;
+}
+
+.cat1 {
+    border: 2px black;
+    border-top-left-radius: 5px;
+    margin-trim: ;
+}
+
+.first{
+    
 }

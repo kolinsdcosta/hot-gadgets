@@ -28,21 +28,27 @@
     color: goldenrod;
 }
 
-.cat {
-
-    padding: 30px 100px;
+.custom-card{
+    box-shadow: 5px 5px 10px gainsboro;
+    font-size: large;
+    padding: 20px 10px;
+}
+.custom-card img{
+    width: 50%;
+    margin-bottom: 10px;
+}
+.first .custom-card{
+    border-radius: 0px 20px 0px 20px;
+    margin-top: 115px;
+    margin-left: 100px;
+}
+.second .custom-card{
+    border-radius: 20px 0px 20px 0px;
+    margin: 10px 0px;
+}
+.third{
+    width: 10%;
+    height: 0%;
 }
 
-.container {
-    padding: 5px 10px;
-}
 
-.cat1 {
-    border: 2px black;
-    border-top-left-radius: 5px;
-    margin-trim: ;
-}
-
-.first{
-    
-}
